@@ -6,9 +6,8 @@ I can help you for developing very fast, secure and powerful  web applications  
 Now I am looking for a new position with  a new challenge .
 - 👀 I’m interested in Reading , Technology , Software Engineering , Enterprenuership , Google TED, Sport
 - 🌱 I’m currently learning React-Native for building Mobile Apps , Scrum and Agile methodology 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 💞️ I’m looking to collaborate on other content github and freelance projects 
+- 📫 How to reach me 📱 +201061876572 📱 +201145849781 📧 ramzymohamed790@hotmail.com
 <!---
 MohamedRamzy994/MohamedRamzy994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
